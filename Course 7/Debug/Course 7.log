@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\محمد أبو هدهود\the courses\course 7\course 7\source.cpp(4169): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Course 7.vcxproj -> E:\محمد أبو هدهود\The Courses\Course 7\Debug\Course 7.exe
+  Course 7.vcxproj -> E:\محمد أبو هدهود\The Courses\Course 7\Debug\Course 7.pdb (Partial PDB)

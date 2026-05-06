@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\محمد أبو هدهود\the courses\course 7\course 7\source.cpp(6464): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+e:\محمد أبو هدهود\the courses\course 7\course 7\source.cpp(6831): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+e:\محمد أبو هدهود\the courses\course 7\course 7\source.cpp(6929): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Course 7.vcxproj -> E:\محمد أبو هدهود\The Courses\Course 7\x64\Debug\Course 7.exe
+  Course 7.vcxproj -> E:\محمد أبو هدهود\The Courses\Course 7\x64\Debug\Course 7.pdb (Partial PDB)
